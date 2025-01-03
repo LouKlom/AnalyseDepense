@@ -92,6 +92,7 @@
                                 <td><?php echo $row["description"] ?></td>
                             </tr>
                     <?php 
+                    
                         }
                     ?>
             </table>
